@@ -272,9 +272,12 @@ bottom: 100px;
         padding: 50px;
     }
 
-    nav, .teams-container, .sponsors-img-container {
+    nav, .teams-container, .sponsors-img-container, .ten-years-badge {
         flex-direction: column;
     }
-
+    .features-img img{
+        width: 90%;
+        margin-left: 0;
+    }
 
 }
